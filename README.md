@@ -26,7 +26,7 @@ LINK: https://jiazmr4rz2dp2lnsqgtmzg.streamlit.app/
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/Kxrl-0-1/HousePrediction.git](https://github.com/Kxrl-0-1/HousePrediction.git)
+    git clone [https://github.com/Karl-0-1/HousePrediction.git](https://github.com/Karl-0-1/HousePrediction.git)
     ```
 2.  Navigate to the project directory:
     ```bash
